@@ -1,5 +1,5 @@
-### ▶ Watch Demo Video
-Click the image below to watch the demo.
+###  Watch Demo Video
+# Click the image below to watch the demo.
 [![Demo Video](https://github.com/YGunashekar/goal-seek-function-for-solar-industry-mathematical-data-of-expenditure-and-commisions/blob/6aba0b9c2e2019a891c85b5b7a055b6c43ed9964/Screenshot%202026-03-09%20114935.png)](https://www.youtube.com/watch?v=KrxNkqyVKhI)
 
 # these ARE images
