@@ -1,1 +1,2 @@
 ![Book4.xslx](https://github.com/YGunashekar/goal-seek-function-for-solar-industry-mathematical-data-of-expenditure-and-commisions/blob/00832b34f5c7b03660234230aa004abdb4d926af/Screenshot%202026-03-09%20112412.png)
+![](https://github.com/YGunashekar/goal-seek-function-for-solar-industry-mathematical-data-of-expenditure-and-commisions/blob/abfa2fa8c8b2531c7202d03de840ec8d5ccb94cf/Screenshot%202026-03-09%20112434.png)
